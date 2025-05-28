@@ -16,7 +16,9 @@ Autonomous Navigation System for Boat
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
     <p>The RoboBoat system was tested to make sure it could reliably find and move toward a target on its own, using a simple three-state finite state machine (FSM). The first state, Locate Target, has the boat rotate to scan the area ( rotates CW 90 and CCW 180). Once a target is found, it switches to Approach Target, where it moves forward and adjusts its direction based on image error signal. When it gets close enough, it enters At Target and stops and rotates to stay on target without advancing forward. In testing, the boat consistently oriented itself within 30 degrees of the target, moved more than 20 feet across the water, and completed full rotations as needed to locate targets. Graphs of error signals, thruster behavior, and distance from the target all showed the system responding as expected. There were a few minor glitches in the camera data, but they were rare and didn’t throw off the boat’s behavior. The system used pixel error rather than angle error to simplify the calculations and improve response time, with the hardware PWM module controlling the differential thrust of the left and right motors. Overall, the test results confirmed that the RoboBoat can accurately navigate, react to its environment, and make smooth transitions between states.</p>
-    <img src="https://github.com/user-attachments/assets/baa7b4d3-000d-45b1-85ac-50ec8dc19493" alt="Testing Result Diagram" width="250px" height="250px">
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/baa7b4d3-000d-45b1-85ac-50ec8dc19493" alt="Testing Result Diagram" width="350px" height="350px">
+ </p>
 </div>
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Error Signal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; L & R Thruster Action &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Distance From Target
