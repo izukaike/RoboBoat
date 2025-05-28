@@ -12,14 +12,18 @@ Autonomous Navigation System for Boat
 </p>
 
 # Testing Results
-<p> Context </p>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-   
-  <div>
-    <p>here</p>
-    <img src="https://github.com/user-attachments/assets/e87ef458-8f72-420b-a303-a13327d78a1c" alt="Full Boat Diagram" height ="300px" width="333px">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
+  
+  <div style="flex: 1; min-width: 250px;">
+    <p><strong>Context</strong></p>
+    <p>Here is where you describe what the test was, what the expected behavior was, and what results you observed. This text stays on the left side.</p>
   </div>
+
+  <div style="flex: 1; min-width: 250px;">
+     <img src="https://github.com/user-attachments/assets/e87ef458-8f72-420b-a303-a13327d78a1c" alt="Full Boat Diagram" height ="300px" width="333px">
+  </div>
+
 </div>
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Error Signal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; L & R Thruster Action &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Distance From Target
