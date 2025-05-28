@@ -22,7 +22,7 @@ Autonomous Navigation System for Boat
   </div>
 
   <div style="flex: 1; min-width: 250px;">
-    <img src="https://github.com/user-attachments/assets/d264fd0d-fa86-4fe0-8c73-ba9cdf76e940" alt="Testing Result Diagram" width="100%">
+    <img src="https://github.com/user-attachments/assets/baa7b4d3-000d-45b1-85ac-50ec8dc19493" alt="Testing Result Diagram" width="100%">
   </div>
 
 </div>
