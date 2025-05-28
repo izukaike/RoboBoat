@@ -13,10 +13,10 @@ Autonomous Navigation System for Boat
 
 ### Testing Results
 
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: center; gap: 10px;">
   <div>
     <h3>Full Boat Diagram</h3>
-    <img src="https://github.com/user-attachments/assets/742fffdf-3da5-4602-a967-c3886a6e2ee0" alt="Full Boat Diagram" width="100px">
+    <img src="https://github.com/user-attachments/assets/742fffdf-3da5-4602-a967-c3886a6e2ee0" alt="Full Boat Diagram" width="300px">
   </div>
 
   <div>
