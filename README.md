@@ -8,5 +8,6 @@ Autonomous Navigation System for Boat
 
 ### Schematic
 <p align="center">
-   <img align="middle" alt="Java" width="750px" height="600" height="350px"src="https://github.com/user-attachments/assets/21d40257-a20d-49e6-9029-5e83bc6b3402">
+   <img align="middle" alt="Java" width="850px" height="600" height="350px"src="https://github.com/user-attachments/assets/21d40257-a20d-49e6-9029-5e83bc6b3402">
 </p>
+s
