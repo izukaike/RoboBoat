@@ -16,6 +16,7 @@ Autonomous Navigation System for Boat
 <p align="center">
    <img src="https://github.com/user-attachments/assets/e87ef458-8f72-420b-a303-a13327d78a1c" alt="Full Boat Diagram" height ="300px" width="333px">
 </p>
+
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Error Signal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; L & R Thruster Action &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Distance From Target
 <div style="display: flex; justify-content: center; gap: 10px;">
   <div>
