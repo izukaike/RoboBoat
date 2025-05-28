@@ -17,10 +17,6 @@ Autonomous Navigation System for Boat
   <div>
     <h3>Full Boat Diagram</h3>
     <img src="https://github.com/user-attachments/assets/742fffdf-3da5-4602-a967-c3886a6e2ee0" alt="Full Boat Diagram" width="300px">
-  </div>
-
-  <div>
-    <h3>Electronics Schematic</h3>
     <img src="https://github.com/user-attachments/assets/21d40257-a20d-49e6-9029-5e83bc6b3402" alt="Electronics Schematic" width="300px">
   </div>
 
