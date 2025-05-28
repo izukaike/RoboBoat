@@ -15,7 +15,9 @@ Autonomous Navigation System for Boat
 <p> Context </p>
 
 <div style="display: flex; justify-content: center; gap: 10px;">
+   
   <div>
+    <p>here</p>
     <img src="https://github.com/user-attachments/assets/e87ef458-8f72-420b-a303-a13327d78a1c" alt="Full Boat Diagram" height ="300px" width="333px">
   </div>
 </div>
