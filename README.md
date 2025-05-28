@@ -15,16 +15,9 @@ Autonomous Navigation System for Boat
 
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
-  
-  <div style="flex: ; min-width: 250px;">
     <p><strong>Context</strong></p>
     <p>Here is where you describe what the test was, what the expected behavior was, and what results you observed. This text stays on the left side.</p>
-  </div>
-
-  <div style="flex: ; min-width: 250px;">
     <img src="https://github.com/user-attachments/assets/baa7b4d3-000d-45b1-85ac-50ec8dc19493" alt="Testing Result Diagram" width="250px" height="250px">
-  </div>
-
 </div>
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Error Signal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; L & R Thruster Action &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Distance From Target
