@@ -12,7 +12,9 @@ Autonomous Navigation System for Boat
 </p>
 
 # Testing Results
+<p> Context </p>
 
+## Error Signal              L & R Thruster Action       Distance From Target
 <div style="display: flex; justify-content: center; gap: 10px;">
   <div>
     <h3></h3>
