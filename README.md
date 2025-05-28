@@ -16,8 +16,8 @@ Autonomous Navigation System for Boat
 <div style="display: flex; justify-content: center; gap: 10px;">
   <div>
     <h3></h3>
-    <img src="https://github.com/user-attachments/assets/5c11512f-fde7-477e-9ef7-24ec72924257" alt="Full Boat Diagram" height ="300px" width="335px">
-    <img src="https://github.com/user-attachments/assets/d40e7fa0-4230-497b-b922-127d68dbeefa" alt="Electronics Schematic" height ="300px" width="335px">
-    <img src="https://github.com/user-attachments/assets/50890a11-6ce5-4d64-ab0b-d71a6e1e8860" alt="Testing Results" height ="300px" width="335px">
+    <img src="https://github.com/user-attachments/assets/5c11512f-fde7-477e-9ef7-24ec72924257" alt="Full Boat Diagram" height ="300px" width="333px">
+    <img src="https://github.com/user-attachments/assets/d40e7fa0-4230-497b-b922-127d68dbeefa" alt="Electronics Schematic" height ="300px" width="333px">
+    <img src="https://github.com/user-attachments/assets/50890a11-6ce5-4d64-ab0b-d71a6e1e8860" alt="Testing Results" height ="300px" width="333px">
   </div>
 </div>
