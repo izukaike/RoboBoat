@@ -13,7 +13,8 @@ Autonomous Navigation System for Boat
 
 # Testing Results
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 10px; flex-wrap: wrap;">
+
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
   
   <div style="flex: 1; min-width: 250px;">
     <p><strong>Context</strong></p>
@@ -21,7 +22,7 @@ Autonomous Navigation System for Boat
   </div>
 
   <div style="flex: 1; min-width: 250px;">
-     <img src="https://github.com/user-attachments/assets/e87ef458-8f72-420b-a303-a13327d78a1c" alt="Full Boat Diagram" height ="300px" width="333px">
+    <img src="https://github.com/user-attachments/assets/d264fd0d-fa86-4fe0-8c73-ba9cdf76e940" alt="Testing Result Diagram" width="100%">
   </div>
 
 </div>
