@@ -13,7 +13,7 @@ Autonomous Navigation System for Boat
 
 # Testing Results
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 10px; flex-wrap: wrap;">
   
   <div style="flex: 1; min-width: 250px;">
     <p><strong>Context</strong></p>
